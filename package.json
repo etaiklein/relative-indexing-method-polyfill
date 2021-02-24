@@ -1,0 +1,21 @@
+{
+  "name": "relative-indexing-method-polyfill",
+  "version": "1.0.0",
+  "description": "Polyfill for https://github.com/tc39/proposal-relative-indexing-method",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etaiklein/relative-indexing-method-polyfill.git"
+  },
+  "keywords": [
+    "relative-indexing-method",
+    "array.at",
+    "polyfill"
+  ],
+  "author": "Tai Klein",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/etaiklein/relative-indexing-method-polyfill/issues"
+  },
+  "homepage": "https://github.com/etaiklein/relative-indexing-method-polyfill#readme"
+}
