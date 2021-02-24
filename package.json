@@ -1,6 +1,6 @@
 {
   "name": "relative-indexing-method-polyfill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Polyfill for https://github.com/tc39/proposal-relative-indexing-method",
   "main": "index.js",
   "repository": {
